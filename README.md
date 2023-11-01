@@ -1,10 +1,9 @@
 <p align="center">
- <img src="https://github.com/iotalua/iotalua/assets/79117077/db3c95dc-f632-4313-bb0c-84a87863f316" width="150" height="30"/>
+ <img src="https://github.com/iotalua/iotalua/assets/79117077/db3c95dc-f632-4313-bb0c-84a87863f316" width="300" height="60"/>
 </p>
 
-<p align="center">
-my portfolio has been moved to a dedicated domain: https://iotalua.com
-</p>
+## my portfolio has been moved to a dedicated domain: https://iotalua.com
+
 
 
 <!--
