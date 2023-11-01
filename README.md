@@ -1,9 +1,17 @@
-### under construction :(
+<p align="center">
+ <img src="https://github.com/iotalua/iotalua/assets/79117077/db3c95dc-f632-4313-bb0c-84a87863f316" width="150" height="30"/>
+</p>
+
+<p align="center">
+my portfolio has been moved to a dedicated domain: https://iotalua.com
+</p>
+
 
 <!--
 **iotalua/iotalua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
