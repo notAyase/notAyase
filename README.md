@@ -9,6 +9,11 @@ i'm a full-stack developer of games and specific programs. i mainly use Roblox S
 my full portfolio has been moved to a dedicated domain: https://iotalua.com
 </p>
 
+<p align="center">
+COMPUTER ONLY. GLITCHY WITH MOBILE
+</p>
+
+
 
 
 <!--
