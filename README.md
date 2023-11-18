@@ -5,16 +5,6 @@
 i'm a full-stack developer of games and specific programs. i mainly use Roblox Studio, but I also have experience using Unity and Visual Studio Code.
 </p>
 
-<p align="center">
-my full portfolio has been moved to a dedicated domain: https://iotalua.com
-</p>
-
-<p align="center">
-COMPUTER ONLY. GLITCHY WITH MOBILE
-</p>
-
-
-
 
 <!--
 **iotalua/iotalua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
