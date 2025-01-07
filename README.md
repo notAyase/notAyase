@@ -1,5 +1,4 @@
 <p align="center">
- <img src="https://github.com/iotalua/iotalua/assets/79117077/db3c95dc-f632-4313-bb0c-84a87863f316" width="300" height="60"/>
 </p>
 <p align="center">
 full-stack developer with the intentions of turning your graphics card into a smokeless grill
